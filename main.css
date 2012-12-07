@@ -1,0 +1,4 @@
+#container { position:relative; }
+#canvas  { position:absolute; left:50px; border:1px; }
+#canvas2 { position:absolute; left:50px; }
+#canvas3 { position:absolute; left:50px; }
